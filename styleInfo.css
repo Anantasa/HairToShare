@@ -1,0 +1,138 @@
+.title{
+background-color: #387EF5;
+border: .5px solid black;
+
+}
+
+.titletext{
+text-align: center;
+
+
+
+}
+
+.centered{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.form {
+  text-align: center;
+}
+
+
+
+
+a.LogInButton:link,
+a.LogInButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+	color: white;
+	border-radius: 5px;
+	width: 80%;
+}
+
+a.LogInButton:hover,
+a.LogInButton:active{
+    background-color: #124fb7;
+}
+
+
+a.CreateAccountButton:link,
+a.CreateAccountButton:visited
+{
+	background-color: #20b2aa;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+	width: 80%;
+}
+
+a.CreateAccountButton:hover,
+a.CreateAccountButton:active{
+    background-color: #088da5;
+}
+
+
+a.DonateHairButton:link,
+a.DonateHairButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    width: 80%;
+	background-color: white;
+}
+
+a.DonateHairButton:hover,
+a.DonateHairButton:active{
+    background-color: #D3D3D3;
+}
+
+a.DonateButton:link,
+a.DonateButton:visited
+{
+	background-color: #7fffd4;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+    color: #3399ff;
+	width: 80%;
+	border-radius: 5px;
+}
+
+a.DonateButton:hover,
+a.DonateButton:active{
+    background-color: #6dc066;
+}
+
+
+
+
+div.logbutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+
+}
+
+div.signbutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+}
+
+div.donatehairbutton{
+margin: auto;
+width: 80%;
+color: black;
+text-align: center;
+padding: 10px;
+}
+
+div.donatebutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+}
+
+
+
+.infoParagraphs{
+text-align: center;
+font-family: Josefin Sans;
+
+}

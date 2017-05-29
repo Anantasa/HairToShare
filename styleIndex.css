@@ -1,0 +1,130 @@
+.title{
+background-color: #387EF5;
+border: .5px solid black;
+
+}
+
+.titletext{
+text-align: center;
+
+
+
+}
+
+.centered{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.form {
+  text-align: center;
+}
+
+
+
+
+a.LogInButton:link,
+a.LogInButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+	color: white;
+	border-radius: 5px;
+	width: 80%;
+}
+
+a.LogInButton:hover,
+a.LogInButton:active{
+    background-color: #124fb7;
+}
+
+
+a.CreateAccountButton:link,
+a.CreateAccountButton:visited
+{
+	background-color: white;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+	width: 80%;
+}
+
+a.CreateAccountButton:hover,
+a.CreateAccountButton:active{
+    background-color: #D3D3D3;
+}
+
+
+a.ForgotPasswordButton:link,
+a.ForgotPasswordButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    width: 80%;
+	background-color: white;
+}
+
+a.ForgotPasswordButton:hover,
+a.ForgotPasswordButton:active{
+    background-color: #D3D3D3;
+}
+
+a.InfoButton:link,
+a.InfoButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+	width: 80%;
+	border-radius: 5px;
+}
+
+a.InfoButton:hover,
+a.InfoButton:active{
+    background-color: #124fb7;
+}
+
+
+
+
+div.logbutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+
+}
+
+div.signbutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+}
+
+div.forgotbutton{
+margin: auto;
+width: 80%;
+color: black;
+text-align: center;
+padding: 10px;
+}
+
+div.infobutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+}

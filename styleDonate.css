@@ -1,0 +1,88 @@
+.title{
+background-color: #387EF5;
+border: .5px solid black;
+
+}
+
+.titletext{
+text-align: center;
+
+
+
+}
+
+.centered{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.form {
+  text-align: center;
+}
+
+
+
+
+a.SubmitButton:link,
+a.SubmitButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+	color: white;
+	border-radius: 5px;
+	width: 80%;
+}
+
+a.SubmitButton:hover,
+a.SubmitButton:active{
+    background-color: #124fb7;
+}
+
+
+
+div.submitbutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+
+}
+
+
+
+
+a.HomeButton:link,
+a.HomeButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+	color: white;
+	border-radius: 5px;
+	width: 80%;
+}
+
+a.HomeButton:hover,
+a.HomeButton:active{
+    background-color: #124fb7;
+}
+
+
+
+div.homebutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+
+}
+
+
+

@@ -1,0 +1,90 @@
+.title{
+background-color: #387EF5;
+border: .5px solid black;
+
+}
+
+.titletext{
+text-align: center;
+
+
+
+}
+
+.centered{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.form {
+  text-align: center;
+}
+
+
+
+
+
+
+a.DonateHairButton:link,
+a.DonateHairButton:visited
+{
+	background-color: #387EF5;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    width: 80%;
+	background-color: white;
+}
+
+a.DonateHairButton:hover,
+a.DonateHairButton:active{
+    background-color: #D3D3D3;
+}
+
+a.DonateButton:link,
+a.DonateButton:visited
+{
+	background-color: #7fffd4;
+     padding: 14px 25px;
+    display: inline-block;
+    text-decoration: none;
+    color: #3399ff;
+	width: 80%;
+	border-radius: 5px;
+}
+
+a.DonateButton:hover,
+a.DonateButton:active{
+    background-color: #6dc066;
+}
+
+
+
+
+
+div.donatehairbutton{
+margin: auto;
+width: 80%;
+color: black;
+text-align: center;
+padding: 10px;
+}
+
+div.donatebutton{
+margin: auto;
+width: 80%;
+color: white;
+text-align: center;
+padding: 10px;
+}
+
+
+
+.infoParagraphs{
+text-align: center;
+font-family: Josefin Sans;
+
+}
